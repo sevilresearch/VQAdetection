@@ -1,0 +1,38 @@
+<annotation>
+	<folder>MatrinHall</folder>
+	<filename>MH-Frame42.png</filename>
+	<path>C:\Python\Computer Vision - Project 1\VideoFrames\MatrinHall\MH-Frame42.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>958</ymin>
+			<xmax>785</xmax>
+			<ymax>995</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1067</xmin>
+			<ymin>441</ymin>
+			<xmax>1081</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
